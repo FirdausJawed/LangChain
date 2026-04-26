@@ -1,0 +1,11 @@
+NullPointerException occurs when trying to access an object that is null. 
+Common fix: check for null before accessing or initialize properly.
+
+LazyInitializationException happens in Hibernate when accessing a lazy-loaded entity outside a session. 
+Fix: use eager fetching or open session in view.
+
+OutOfMemoryError occurs when JVM runs out of memory. 
+Fix: increase heap size or optimize memory usage.
+
+ConcurrentModificationException occurs when modifying a collection during iteration. 
+Fix: use iterator.remove() or concurrent collections.
