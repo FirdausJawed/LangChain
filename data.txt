@@ -1,0 +1,5 @@
+RAG (Retrieval-Augmented Generation) is a technique where external data is retrieved and given to an AI model to improve accuracy.
+
+Embeddings convert text into vectors.
+
+Vector databases store and search embeddings efficiently.
